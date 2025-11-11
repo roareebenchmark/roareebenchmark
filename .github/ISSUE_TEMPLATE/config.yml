@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🔒 Membership Application
+    url: https://github.com/tombustamante/roareebenchmark/blob/main/MEMBERSHIP_APPLICATION.md
+    about: Apply to join the Roaree Benchmark Club (invite-only)
+  - name: 📚 Documentation
+    url: https://github.com/tombustamante/roareebenchmark/blob/main/README.md
+    about: Read the project documentation and guidelines
+  - name: 💬 General Questions
+    url: https://github.com/tombustamante/roareebenchmark/discussions
+    about: Ask questions and discuss with the community (members only)

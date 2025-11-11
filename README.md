@@ -19,11 +19,15 @@ Our mission is to develop rigorous, transparent, and reproducible benchmarks for
 ### How to Request Access
 
 If you are a Columbia student interested in joining:
-1. Contact the repository maintainers through official Columbia channels
-2. Provide your background and research interests in LLM evaluation
+1. Review the [Membership Application](MEMBERSHIP_APPLICATION.md)
+2. Submit your completed application through official Columbia channels
 3. Wait for the vetting process to complete (typically 1-2 weeks)
 
 **Note:** Unsolicited pull requests from non-members will not be accepted. Please request membership first.
+
+### New Member Onboarding
+
+Once accepted, new members should read the [Welcome Guide](WELCOME.md) for onboarding instructions.
 
 ## 📋 What We Do
 
@@ -53,7 +57,7 @@ For membership inquiries or questions, please reach out through:
 
 ## 📄 License
 
-This project's license will be determined by the core team to balance open research with academic collaboration needs.
+This project is licensed under the MIT License with additional terms for research use. See [LICENSE](LICENSE) for details.
 
 ---
 
