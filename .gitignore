@@ -1,0 +1,109 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+*.manifest
+*.spec
+pip-log.txt
+pip-delete-this-directory.txt
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+ENV/
+env/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Data files (large datasets should not be committed)
+*.csv
+*.xlsx
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.joblib
+data/raw/
+data/processed/
+*.db
+*.sqlite
+
+# Model files (large model checkpoints)
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+models/checkpoints/
+models/pretrained/
+
+# Results and outputs
+results/
+outputs/
+logs/
+wandb/
+mlruns/
+*.out
+
+# Secrets and credentials
+.env
+.env.local
+*.key
+*.pem
+credentials.json
+secrets/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Research-specific
+*.pdf
+!docs/*.pdf
+papers/drafts/
