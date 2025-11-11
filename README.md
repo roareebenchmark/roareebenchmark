@@ -19,9 +19,9 @@ Our mission is to develop rigorous, transparent, and reproducible benchmarks for
 ### How to Request Access
 
 If you are a Columbia student interested in joining:
-1. Review the [Membership Application](MEMBERSHIP_APPLICATION.md)
+1. Review the [Membership Application](https://forms.gle/MZpzXQ2hXNEMD18o7)
 2. Submit your completed application through official Columbia channels
-3. Wait for the vetting process to complete (typically 1-2 weeks)
+3. Wait for the vetting process to complete
 
 **Note:** Unsolicited pull requests from non-members will not be accepted. Please request membership first.
 
